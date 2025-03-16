@@ -1,16 +1,7 @@
-# A website template for academics
+# Personal Website of S. Bickel
 
-## Introduction 
-
-This is a statically-generated Jekyll/Liquid/Bootstrap-based website template for academics.
-I started with [this](https://github.com/sbryngelson/academic-website-template) webpage.
-
-* Automatically generated buttons for DOI/PDF/ARXIV/BIB/Abstract information
-  * via Jekyll Scholar
-* Bibliography information and abstracts open in drown-down wells via buttons
-* Fontawesome icons (email, CV, Google Scholar, ResearchGate, GitHub, etc.)
-* Dark color scheme via Bootswatch
-* Consistent and attractive `About me` page
+This is a statically-generated Jekyll/Liquid/Bootstrap-based website template. 
+I started with [this](sbryngelson/academic-website-template) webpage.
 
 I encourage using this webpage as a template for your academic website.
 The remainder of this document describes how to do this.
@@ -105,7 +96,7 @@ Be sure that the `site.url` and `site.baseurl` are set appropriately in the `_co
 
 ## Acknowledgment
 
-I used this [Allen Lab](https://www.allanlab.org/) and [Academic website template](https://github.com/sbryngelson/academic-website-template) as templates. Thank you! 
+I used this [this](sbryngelson/academic-website-template) based on [Allen Lab](https://www.allanlab.org/) and [Academic website template](https://github.com/sbryngelson/academic-website-template) as templates. Thank you! 
 
 ## License
 
