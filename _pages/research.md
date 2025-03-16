@@ -34,8 +34,12 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
 
-Example description
+
+See <a href="https://hbmlab-nyc.com/research/" target="_blank"><button class="btn btn-success btn-sm">HBMLab-nyc.com</button></a> 
+and **[publications]({{ site.url }}{{ site.baseurl }}/publications)** for some examples.
+
+
+
 </div>
 </div>

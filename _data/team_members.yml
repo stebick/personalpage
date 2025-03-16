@@ -1,8 +1,50 @@
-- name: Example student name
-  photo: rock.jpg
-  info: Postdoc, started Oct 2040
-  email: exampleemail@gmail.com
-  website: https://website.com
+- name: Sabina Gherman, PhD
+  photo: SG_sq.jpg
+  info: Postdoc
+  email: agherman@northwell.edu
+  website: 
+
+- name: Max Nentwich, PhD
+  photo: max.jpg
+  info: Postdoc 
+  email: mnentwich@northwell.edu
+  website: 
+
+- name: Christine Chesebrough, PhD
+  photo: ChristineHeadshot.jpg
+  info: Postdoc
+  email: cchesebrough@northwell.edu
+  website: 
+
+- name: Akash Mishra
+  photo: akash_mishrah.jpg
+  info: MD PhD Student
+  email: amishra4@northwell.edu
+  website: 
+
+- name: Liz Espinal
+  photo: elizabeth_espinal.jpg
+  info: Neuropsych PhD Student (at Drexel / Charleston)
+  email: EEspinal2@northwell.edu>
+  website: 
+
+- name: Noah Markowitz
+  photo: Noah.jpg
+  info: Data scientist
+  email: nmarkowitz@northwell.edu>
+  website: 
+
+- name: Sarah Johnson
+  photo: sjohnson.jpg
+  info: Research Assistant
+  email: sjohnson74@northwell.edu
+  website: 
+
+- name: Jalen Winfield 
+  photo: JalenWinfield_4x5.jpg
+  info: Research Assistant
+  email: jwinfield@northwell.edu
+  website: 
 
 - name: "This could be you !"
   photo: rock.jpg
