@@ -43,10 +43,10 @@ permalink: /about/
 
 <div class="jumbotron">
   <h4>Positions</h4>
-- 2019 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Faculty at the [Elmezzi Graduate School] (https://www.northwell.edu/education-and-resources/elmezzi-graduate-school-of-molecular-medicine), Feinstein Institutes
+- 2019 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Faculty at the [Elmezzi Graduate School](https://www.northwell.edu/education-and-resources/elmezzi-graduate-school-of-molecular-medicine), Feinstein Institutes
 - 2018 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-director [Human Brain Mapping Lab](https://hbmlab-nyc.com/), Feinstein Institutes  
 - 2018 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Neurology and Neurosurgery, Hofstra-Zucker School of Medicine, NY 
-- 2018 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Institute for Bioelectronic Medicine, Feinstein Institutes, NY 
+- 2018 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, [Institute for Bioelectronic Medicine, Feinstein Institutes](https://feinstein.northwell.edu/institutes-researchers/our-researchers/stephan-bickel-md-phd), NY 
 - 2018 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Epilepsy Attending, Comprehensive Epilepsy Center, Northwell Health, NY  
 - 2015 – 2017	&nbsp;&nbsp;&nbsp;&nbsp; Epilepsy and Research Fellow, Stanford University, CA
 - 2012 – 2015 &nbsp;&nbsp;&nbsp;&nbsp; Neurology Resident, Albert Einstein College of Medicine, Bronx, NY
