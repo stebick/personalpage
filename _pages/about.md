@@ -43,7 +43,7 @@ permalink: /about/
 
 <div class="jumbotron">
   <h4>Positions</h4>
-- 2019 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Faculty at the Elmezzi Graduate School, Feinstein Institutes
+- 2019 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Faculty at the [Elmezzi Graduate School] (https://www.northwell.edu/education-and-resources/elmezzi-graduate-school-of-molecular-medicine), Feinstein Institutes
 - 2018 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-director [Human Brain Mapping Lab](https://hbmlab-nyc.com/), Feinstein Institutes  
 - 2018 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Neurology and Neurosurgery, Hofstra-Zucker School of Medicine, NY 
 - 2018 – now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Institute for Bioelectronic Medicine, Feinstein Institutes, NY 
