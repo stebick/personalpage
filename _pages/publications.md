@@ -22,6 +22,12 @@ years: []
       <a href="{{ site.url }}{{ site.baseurl }}/papers/Mishra-Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory-2025-iScience.pdf" target="_blank">PDF</a>. 
   </li>
   <li>
+    Maximilian Nentwich, Marcin Leszczynski, Charles E Schroeder, <strong>Stephan Bickel</strong>, Lucas C Parra. 
+    <em>Intrinsic dynamic shapes responses to external stimulation in the human brain.</em> 
+     <a href="https://doi.org/10.7554/eLife.104996.1" target="_blank">ELife</a> 14:RP104996 (2025).
+      <a href="{{ site.url }}{{ site.baseurl }}/papers/Max VARX ELife 2025.pdf" target="_blank">PDF</a>.
+  </li>
+  <li>
       K. L. Christison-Lagay et al.  
       <em>The neural activity of auditory conscious perception.</em>  
       <a href="https://doi.org/10.1016/j.neuroimage.2025.121041" target="_blank">NeuroImage </a> 308, 121041 (2025).
@@ -38,8 +44,6 @@ years: []
   </li>
 </ul>
  
-
-
 
 #### 2024
 <ul>
