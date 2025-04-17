@@ -17,9 +17,9 @@ years: []
 <ul>
   <li>
       Akash Mishra, Serdar Akkol, Elizabeth Espinal, Noah Markowitz, Gelana Tostaeva, Elisabeth Freund, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
-      <em>Hippocampal sharp wave ripples and coincident cortical ripples orchestrate human semantic networks.</em> 
-      <a href="https://doi.org/10.1101/2024.04.10.588795" target="_blank">bioRxiv</a>.
-      <a href="{{ site.url }}{{ site.baseurl }}/papers/biorxiv_2024.04.10.588795v3.AkashMatrixRecall.pdf" target="_blank">PDF</a>. Accepted for publication in iScience.
+      <em>Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory.</em> 
+      <a href="https://www.cell.com/iscience/fulltext/S2589-0042(25)00432-8" target="_blank">iScience</a> 28, 112171 (2025).
+      <a href="{{ site.url }}{{ site.baseurl }}/papers/Mishra-Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory-2025-iScience.pdf" target="_blank">PDF</a>. 
   </li>
   <li>
       K. L. Christison-Lagay et al.  
