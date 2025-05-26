@@ -16,16 +16,20 @@ years: []
 #### 2025
 <ul>
   <li>
-      Akash Mishra, Serdar Akkol, Elizabeth Espinal, Noah Markowitz, Gelana Tostaeva, Elisabeth Freund, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
-      <em>Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory.</em> 
-      <a href="https://www.cell.com/iscience/fulltext/S2589-0042(25)00432-8" target="_blank">iScience</a> 28, 112171 (2025).
-      <a href="{{ site.url }}{{ site.baseurl }}/papers/Mishra-Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory-2025-iScience.pdf" target="_blank">PDF</a>. 
+    Akash Mishra, Gelana Tostaeva, Maximilian Nentwich, Elizabeth Espinal, Noah Markowitz, Sabina Gherman, Jalen Winfield, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
+    <em>Motifs of human hippocampal and cortical high frequency oscillations structure processing and memory of naturalistic stimuli. Science Advances. Accepted for publication.</em> 
   </li>
   <li>
     Maximilian Nentwich, Marcin Leszczynski, Charles E Schroeder, <strong>Stephan Bickel</strong>, Lucas C Parra. 
     <em>Intrinsic dynamic shapes responses to external stimulation in the human brain.</em> 
      <a href="https://doi.org/10.7554/eLife.104996.1" target="_blank">ELife</a> 14:RP104996 (2025).
-      <a href="{{ site.url }}{{ site.baseurl }}/papers/Max VARX ELife 2025.pdf" target="_blank">PDF</a>.
+     <a href="{{ site.url }}{{ site.baseurl }}/papers/Max VARX ELife 2025.pdf" target="_blank">PDF</a>.
+  </li>
+  <li>
+      Akash Mishra, Serdar Akkol, Elizabeth Espinal, Noah Markowitz, Gelana Tostaeva, Elisabeth Freund, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
+      <em>Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory.</em> 
+      <a href="https://www.cell.com/iscience/fulltext/S2589-0042(25)00432-8" target="_blank">iScience</a> 28, 112171 (2025).
+      <a href="{{ site.url }}{{ site.baseurl }}/papers/Mishra-Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory-2025-iScience.pdf" target="_blank">PDF</a>. 
   </li>
   <li>
       K. L. Christison-Lagay et al.  
