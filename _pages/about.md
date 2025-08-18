@@ -16,8 +16,14 @@ permalink: /about/
 </div>
 <div class="col-sm-8 col-xs-12">
   <h4>{{ member.name }}</h4>
-  <h5><i>Epilepsy Attending and Assistant Professor of Neurology and Neurosurgery, Hofstra-Zucker School of Medicine, Northwell Health, NY</i></h5>
-  <h5><i>Co-Director and PI at Human Brain Mapping Lab, The Feinstein Institutes for Medical Research, NY</i></h5>
+  <h5><i>Associate Professor of Neurology and Neurosurgery</i></h5>
+  <h5><i>Co-Director and PI Human Brain Mapping Lab</i></h5> 
+  <h5><i>The Feinstein Institutes for Medical Research, NY</i></h5> 
+  <h5><i>Donald and Barbara Zucker School of Medicine at Hofstra / Northwell, NY</i></h5> 
+
+  <h5><i>Attending, Comprehensive Epilepsy Center</i></h5>
+  <h5><i>North Shore University Hospital, NY</i></h5>
+
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
