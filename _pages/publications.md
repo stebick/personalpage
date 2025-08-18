@@ -19,6 +19,7 @@ years: []
     Akash Mishra, Gelana Tostaeva, Maximilian Nentwich, Elizabeth Espinal, Noah Markowitz, Sabina Gherman, Jalen Winfield, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
     <em>Motifs of human hippocampal and cortical high frequency oscillations structure processing and memory of naturalistic stimuli.</em>
     <a href="https://www.science.org/doi/10.1126/sciadv.adv0986" target="_blank">Science Advances</a> 11, eadv0986 (2025).
+    <a href="{{ site.url }}{{ site.baseurl }}/papers/Mishra-Motifs of human high-frequency oscillations structure processing and memory of continuous audiovisual narratives-2025-Science Advances.pdf" target="_blank">PDF</a>.    
   </li>
   <li>
     Maximilian Nentwich, Marcin Leszczynski, Charles E Schroeder, <strong>Stephan Bickel</strong>, Lucas C Parra. 
