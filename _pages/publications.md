@@ -22,6 +22,11 @@ years: []
     <a href="{{ site.url }}{{ site.baseurl }}/papers/Mishra-Motifs of human high-frequency oscillations structure processing and memory of continuous audiovisual narratives-2025-Science Advances.pdf" target="_blank">PDF</a>.    
   </li>
   <li>
+    Serdar Akkol,  Akash Mishra, Noah Markowitz, Elizabeth Espinal, Menoua Keshishian, Charles E Schroeder, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
+    <em>Neural entrainment by speech in human auditory cortex revealed by intracranial recordings.</em> 
+     <a href="https://doi.org/10.7554/eLife.104996.1](https://www.sciencedirect.com/journal/progress-in-neurobiology" target="_blank">Progress in Neurobiology</a>, accepted for publication (2025).
+  </li>
+  <li>
     Maximilian Nentwich, Marcin Leszczynski, Charles E Schroeder, <strong>Stephan Bickel</strong>, Lucas C Parra. 
     <em>Intrinsic dynamic shapes responses to external stimulation in the human brain.</em> 
      <a href="https://doi.org/10.7554/eLife.104996.1" target="_blank">ELife</a> 14:RP104996 (2025).
