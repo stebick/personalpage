@@ -77,6 +77,11 @@ years: []
       <a href="{{ site.url }}{{ site.baseurl }}/papers/biorxiv 2024.08.05.606665v2.Max Varx.pdf" target="_blank">PDF</a>.
   </li>
   <li>
+      Vinay S. Raghavan, James O’Sullivan, Jose Herrero, <strong>Stephan Bickel</strong>, Ashesh D. Mehta, Nima Mesgarani
+      <em>Improving auditory attention decoding by classifying intracranial responses to glimpsed and masked acoustic events.</em>  
+      <a href="https://doi.org/10.1016/j.neuroimage.2025.121041" target="_blank">Imaging Neurosc </a> 2, 1–19 (2024.
+  </li>
+  <li>
     Akash Mishra, Serdar Akkol, Elizabeth Espinal, Noah Markowitz, Gelana Tostaeva, Elisabeth Freund, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
     <em>Hippocampal sharp wave ripples and coincident cortical ripples orchestrate human semantic networks.</em> 
      <a href="https://doi.org/10.1101/2024.04.10.588795" target="_blank">bioRxiv</a>.
