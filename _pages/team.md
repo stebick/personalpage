@@ -7,7 +7,7 @@ permalink: /team/
 
 ### Team
 
-<div class="alert" role="alert" style="border:2px solid red; background-color: transparent; color: #000;">
+<div class="alert" role="alert" style="border:2px solid red; background-color: transparent; color: white;">
   <h4 class="alert-heading" style="color: red;">Now hiring (updated March 20th): Research Assistant + Postdoc</h4>
   <p>We are looking for both a Research Assistant and a Postdoctoral Researcher.</p>
   <ul>
