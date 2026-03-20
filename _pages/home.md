@@ -13,7 +13,7 @@ I earned my MD and PHD in Zurich, Switzerland, working on schizophrenia related 
 
 Since completion of the fellowship I am co-directing the [Human Brain Mapping Lab](https://hbmlab-nyc.com/) at The Feinstein Institutes, Northwell Health. In my lab we mainly work with electrical stimulation and intracranial EEG recordings from epilepsy patients to study cognitive functions such as decision making, speech perception, and memory. I am particularly interested in the role of neural oscillations in these functions.  
 
-<span style="color: red;">Now hiring a postdoc and research assistant,</span>
+<a href="/team/" style="color: red; font-weight: bold; font-size: 1.2em;">Now hiring a postdoc and research assistant!</a>
 
 <div class="container">
 <div class="row">
