@@ -13,6 +13,16 @@ years: []
   }
 </style>
 
+#### 2026
+<ul>
+  <li>
+    Karl-Heinz Nenning, Erkam Zengin, Ting Xu, Elisabeth Freund, Noah Markowitz, Sarah Johnson, Silvia B. Bonelli, Alexandre R. Franco, Stanley J. Colcombe, Michael P. Milham, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
+    <em>Temporal Dynamics of BOLD fMRI Predict Intracranially-Confirmed Seizure Onset Zones in Drug-Resistant Epilepsy.</em>
+    <a href="https://doi.org/10.64898/2026.04.15.718821" target="_blank">bioRxiv</a>.
+    <a href="{{ site.url }}{{ site.baseurl }}/papers/2026.04.15.718821v1.full.pdf" target="_blank">PDF</a>.
+  </li>
+</ul>
+
 #### 2025
 <ul>
   <li>
