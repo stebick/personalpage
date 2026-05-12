@@ -29,6 +29,7 @@ nav_pages:
   - name: research
  # - name: software
   - name: team
+  - name: clinical_trials
  # - name: blogs
 
 include:
