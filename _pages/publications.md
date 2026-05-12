@@ -21,6 +21,21 @@ years: []
     <a href="https://doi.org/10.64898/2026.04.15.718821" target="_blank">bioRxiv</a>.
     <a href="{{ site.url }}{{ site.baseurl }}/papers/2026.04.15.718821v1.full.pdf" target="_blank">PDF</a>.
   </li>
+  <li>
+    Serdar Akkol, Jose L. Herrero, Elizabeth Espinal, Noah Markowitz, Timir Datta-Chaudhuri, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
+    <em>Dynamic, minimally invasive electrical brain stimulation improves speech perception.</em>
+    <a href="https://doi.org/10.1016/j.heares.2026.109637" target="_blank">Hear. Res.</a> 476, 109637 (2026).
+  </li>
+  <li>
+    Corentin Puffay, Gavin Mischler, Vishal Choudhari, Jonas Vanthornhout, <strong>Stephan Bickel</strong>, Ashesh D. Mehta, Catherine Schevon, Guy M. McKhann, Hugo Van hamme, Tom Francart, Nima Mesgarani. 
+    <em>Large language models reveal the neural tracking of linguistic context in attended and unattended multi-talker speech.</em>
+    <a href="https://doi.org/10.1162/imag_a_001227" target="_blank">Imaging Neurosci.</a> 4, IMAG.a.1227 (2026).
+  </li>
+  <li>
+    Vishal Choudhari, Maximilian Nentwich, Sarah Johnson, Jose L. Herrero, <strong>Stephan Bickel</strong>, Ashesh D. Mehta, Daniel Friedman, Adeen Flinker, Edward F. Chang, Nima Mesgarani. 
+    <em>Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments.</em>
+    <a href="https://doi.org/10.1038/s41593-026-02281-5" target="_blank">Nat. Neurosci.</a> 1–11 (2026).
+  </li>
 </ul>
 
 #### 2025
@@ -35,6 +50,16 @@ years: []
     Serdar Akkol,  Akash Mishra, Noah Markowitz, Elizabeth Espinal, Menoua Keshishian, Charles E Schroeder, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
     <em>Neural entrainment by speech in human auditory cortex revealed by intracranial recordings.</em> 
      <a href="https://doi.org/10.7554/eLife.104996.1](https://www.sciencedirect.com/journal/progress-in-neurobiology" target="_blank">Progress in Neurobiology</a>, accepted for publication (2025).
+  </li>
+  <li>
+    Gavin Mischler, Y. A. Li, <strong>Stephan Bickel</strong>, Ashesh D. Mehta, Nima Mesgarani. 
+    <em>The impact of musical expertise on disentangled and contextual neural encoding of music revealed by generative music models.</em>
+    <a href="https://doi.org/10.1038/s41467-025-08874-0" target="_blank">Nat. Commun.</a> 16, 8874 (2025).
+  </li>
+  <li>
+    Kiki van der Heijden, Prachi Patel, <strong>Stephan Bickel</strong>, Jose L. Herrero, Ashesh D. Mehta, Nima Mesgarani. 
+    <em>Joint Population Coding and Temporal Coherence Link an Attended Talker's Voice and Location Features in Naturalistic Multi-talker Scenes.</em>
+    <a href="https://doi.org/10.1523/JNEUROSCI.0754-25.2025" target="_blank">J. Neurosci.</a> 45(47), e0754252025 (2025).
   </li>
   <li>
     Maximilian Nentwich, Marcin Leszczynski, Charles E Schroeder, <strong>Stephan Bickel</strong>, Lucas C Parra. 

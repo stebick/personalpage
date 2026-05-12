@@ -8,11 +8,10 @@ permalink: /team/
 ### Team
 
 <div class="alert" role="alert" style="border:2px solid red; background-color: transparent; color: white;">
-  <h4 class="alert-heading" style="color: red;">Now hiring (updated March 20th): Research Assistant + Postdoc</h4>
-  <p>We are looking for both a Research Assistant and a Postdoctoral Researcher.</p>
+  <h4 class="alert-heading" style="color: red;">Now hiring (updated May 12th): Postdoc</h4>
+  <p>We are looking for a Postdoctoral Researcher.</p>
   <ul>
     <li>Postdoc role: NIH-funded project studying thalamo-cortical processes underlying multimodal auditory processing.</li>
-    <li>Research assistant role: supporting experiments, data collection, and analysis.</li>
   </ul>
   <p>Positions remain available while this announcement is active.</p>
   <p><strong>Interested candidates should reach out via email with a CV.</strong></p>
